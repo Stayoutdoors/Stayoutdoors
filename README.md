@@ -8,6 +8,7 @@ M.S. candidate in Geographic Information Science at San Francisco State Universi
 
 ### Research
 **Automated detection of abandoned mine features from LiDAR** *(M.S. thesis, in progress)*
+
 An ArcGIS Pro + Python workflow that finds abandoned mine shafts and adits in LiDAR-derived DEMs across California's Gold Country.
 
 ### Projects
@@ -24,9 +25,9 @@ An ArcGIS Pro + Python workflow that finds abandoned mine shafts and adits in Li
 - AAUS scientific diver · FCC-licensed radio operator
 
 ### Tools
-**GIS & remote sensing:** ArcGIS Pro · ArcPy · LiDAR processing · Agisoft Metashape · CloudCompare · AutoCAD
-**Programming:** Python · R · SQL
-**UAS:** ArduPilot · Pixhawk · QGroundControl · ROS 2 · NVIDIA Jetson
+- **GIS & remote sensing:** ArcGIS Pro · ArcPy · LiDAR processing · Agisoft Metashape · CloudCompare · AutoCAD
+- **Programming:** Python · R · SQL
+- **UAS:** ArduPilot · Pixhawk · QGroundControl · ROS 2 · NVIDIA Jetson
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/garrett-hebert-285506126/) · Open to GIS analyst, geospatial technician, and environmental scientist roles in the Bay Area.
