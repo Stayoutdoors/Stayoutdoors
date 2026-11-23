@@ -16,7 +16,7 @@ An ArcGIS Pro + Python workflow that finds abandoned mine shafts and adits in Li
 |---|---|---|
 | **Iowa Hill mine shafts** | Mapping abandoned mine shafts from LiDAR terrain models | ArcGIS Pro, ArcPy, LiDAR |
 | **Sugar Pine Dam 3D** | 3D reconstruction of the dam and reservoir from drone imagery | Agisoft Metashape, CloudCompare |
-| **X500 survey drone** | Survey UAS built from the frame up for my thesis fieldwork; first test flights done, mapping missions next | ArduCopter 4.7 / Pixhawk 6X, Jetson Orin Nano, ROS 2 Humble, MAVROS, H-RTK F9P GNSS, QGroundControl |
+| **[X500 survey drone](https://github.com/Stayoutdoors/x500-survey-drone)** | Survey UAS built from the frame up for my thesis fieldwork; first test flights done, mapping missions next | ArduCopter 4.7 / Pixhawk 6X, Jetson Orin Nano, ROS 2 Humble, MAVROS, H-RTK F9P GNSS, QGroundControl |
 
 ### Field background
 - **National Park Service, Golden Gate NRA (2026).** Seabird monitoring and wildlife disease sampling on Alcatraz Island. Built the ArcGIS Pro feature classes and attribute schemas behind the park's forage-monitoring data.
