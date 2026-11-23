@@ -25,8 +25,8 @@ An ArcGIS Pro + Python workflow that finds abandoned mine shafts and adits in Li
 - AAUS scientific diver · FCC-licensed radio operator
 
 ### Tools
-- **GIS & remote sensing:** ArcGIS Pro · ArcPy · LiDAR processing · Agisoft Metashape · CloudCompare · AutoCAD
-- **Programming:** Python · R · SQL
+- **GIS & remote sensing:** ArcGIS Pro · ArcPy · LiDAR processing · Agisoft Metashape · CloudCompare · ESA SNAP · Google Earth Engine · AutoCAD
+- **Programming:** Python · R · SQL · Linux · Git/GitHub
 - **UAS:** ArduPilot · Pixhawk · QGroundControl · ROS 2 · NVIDIA Jetson
 
 ### Contact
